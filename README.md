@@ -1,5 +1,5 @@
 ## CallLogger
 
 
-#Compile with
+# Compile with
 pyinstaller --onefile ticket_creator.py
